@@ -1,0 +1,58 @@
+export const projects = [
+  {
+    id: 1,
+    title: "[Project Title 1]",
+    description: "[Description of Project 1]",
+    image: "/projects/project7.jpg",
+    column: 1,
+  },
+  {
+    id: 2,
+    title: "[Project Title 2]",
+    description: "[Description of Project 2]",
+    image: "/projects/project2.jpg",
+    column: 1,
+  },
+  {
+    id: 3,
+    title: "[Project Title 3]",
+    description: "[Description of Project 3]",
+    image: "/projects/project3.jpg",
+    column: 1,
+  },
+  {
+    id: 4,
+    title: "[Project Title 4]",
+    description: "[Description of Project 4]",
+    image: "/projects/project4.jpg",
+    column: 1,
+  },
+  {
+    id: 5,
+    title: "[Project Title 5]",
+    description: "[Description of Project 5]",
+    image: "/projects/project5.jpg",
+    column: 2,
+  },
+  {
+    id: 6,
+    title: "[Project Title 6]",
+    description: "[Description of Project 6]",
+    image: "/projects/project6.jpg",
+    column: 2,
+  },
+  {
+    id: 7,
+    title: "[Project Title 7]",
+    description: "[Description of Project 7]",
+    image: "/projects/project1.jpg",
+    column: 2,
+  },
+  {
+    id: 8,
+    title: "[Project Title 8]",
+    description: "[Description of Project 8]",
+    image: "/projects/project8.jpg",
+    column: 2,
+  },
+];
